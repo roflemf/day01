@@ -13,5 +13,6 @@ public class TestClass04 {
 		System.out.println("총합계\t\t\t\t"+ "\\" + 100000);
 		System.out.println("----------------------------------------");
 
+		
 	}
 }
